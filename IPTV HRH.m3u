@@ -21,3 +21,7 @@ https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="A más Guatemala" tvg-name="A más Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",A más Guatemala
 https://channel2-tva.duin.dev/tv/streaming/0/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal 27 Guatemala" tvg-name="Canal 27 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Religión",Canal 27 Guatemala
+https://ch1-c27.duin.dev/hls/0/stream.m3u8
