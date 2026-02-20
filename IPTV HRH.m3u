@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal 7 Guatemala" tvg-name="Canal 7 Guatemala tvg-logo="http://logo.com/noticias.png" group-title="Nacionales", Canales Nacionales
+#EXTINF:-1 tvg-id="Canal 7 Guatemala" tvg-name="Canal 7 Guatemala" tvg-logo="http://logo.com/noticias.png" group-title="Nacionales",Canal 7 Guatemala
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
-#EXTINF:-1 tvg-id="Canal 3 Guatemala" tvg-name="Canal 7 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales", Canales Nacionales
+#EXTINF:-1 tvg-id="Canal 3 Guatemala" tvg-name="Canal 3 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",Canal 3 Guatemala
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
-
