@@ -17,3 +17,7 @@ https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/antigua.m3u8.
 
 #EXTINF:-1 tvg-id="TV Azteca Guatemala" tvg-name="TV Azteca Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",TV Azteca Guatemala
 https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="A más Guatemala" tvg-name="A más Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",A más Guatemala
+https://channel2-tva.duin.dev/tv/streaming/0/stream.m3u8
