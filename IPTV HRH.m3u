@@ -5,3 +5,8 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="Canal 3 Guatemala" tvg-name="Canal 3 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",Canal 3 Guatemala
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Canal TN23 Guatemala" tvg-name="Canal TN23 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",Canal TN23 Guatemala
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/480p.m3u8
