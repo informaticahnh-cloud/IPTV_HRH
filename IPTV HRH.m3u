@@ -28,3 +28,6 @@ https://ch1-c27.duin.dev/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="Novelísima" tvg-name="Novelísima" tvg-logo="http://logo.com/deportes.png" group-title="Novelas",Novelísima
 https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/08/GTV-Logo.webp" group-title="Películas",GTV
+https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
