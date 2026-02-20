@@ -68,3 +68,5 @@ https://regionales.saohgdasregions.fun:9092/MTkwLjE0LjEzNC4yMzk=/18_.m3u8?token=
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="Deportes",ESPN
 https://bgfuzq.fubohd.com/espn/mono.m3u8?token=c1fd340053b5bb4ce490f29eafa8d64d09e64d3d-37-1771636095-1771618095
 
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.ibb.co/VwhCtVC/telemundo.jpg" group-title="Variedades",Telemundo
+https://regionales.saohgdasregions.fun:9092/MTkwLjE0LjEzNC4yMzk=/6_.m3u8?token=CSWVVxiWN8qTVjHqs_HwEA&expires=1771662712
