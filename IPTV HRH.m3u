@@ -31,3 +31,6 @@ https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/08/GTV-Logo.webp" group-title="Películas",GTV
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+
+#EXTINF:-1 tvg-id="TV GLOBO Xela" tvg-name="TV GLOBO Xela" tvg-logo="https://tvguatemala.net/wp-content/uploads/2024/03/Tele-Globo-Guatemala-En-Vivo-Logo.png.webp" group-title="Variedades",GTV
+https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/playlist.m3u8
