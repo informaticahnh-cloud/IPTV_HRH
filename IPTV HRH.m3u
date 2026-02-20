@@ -34,3 +34,7 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 
 #EXTINF:-1 tvg-id="TV GLOBO Xela" tvg-name="TV GLOBO Xela" tvg-logo="https://tvguatemala.net/wp-content/uploads/2024/03/Tele-Globo-Guatemala-En-Vivo-Logo.png.webp" group-title="Variedades",GTV
 https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Enlace TV" tvg-name="Enlace TV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/10/TBN-Enlace-Television-Guatemala-2.webp" group-title="Religión",Enlace TV
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
