@@ -12,4 +12,8 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/480p.m3u8
 
 #EXTINF:-1 tvg-id="Canal Antigua Guatemala" tvg-name="Canal Antigua Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",Canal Antigua Guatemala
-https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
+https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/antigua.m3u8.
+
+
+#EXTINF:-1 tvg-id="TV Azteca Guatemala" tvg-name="TV Azteca Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",TV Azteca Guatemala
+https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8
