@@ -143,3 +143,12 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/ts-us-e2-n1/playlist/
 #EXTINF:-1 tvg-id="Sony Canal Novelas" tvg-name="Sony Canal Novelas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Novelas",Sony Canal Novelas
 https://spt-novelas-1-us.canelatv.wurl.tv/4300.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Corazón" tvg-name="Corazón" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efd558116e424f19f92ce5633e256e6c.webp" group-title="Novelas",Corazón
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Top Latino TV" tvg-name="Top Latino TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="Música",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w612961349_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzcxODY2MjY2Jndvd3phdG9rZW5lbmR0aW1lPTE3NzE4NjcyNjYmd293emF0b2tlbmhhc2g9YzMxU1NkS0ozeUNvQ0xtb01jdk9TazBrOVlWQ19XZjEzaXpfMXR6S0VOcz0=.m3u8
