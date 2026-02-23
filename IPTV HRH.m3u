@@ -90,4 +90,16 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleclásica" tvg-name="Teleclásica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp",Teleclásica
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8?hls_ctx=c29p6218
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Telemundo Acción" tvg-name="Telemundo Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp",Telemundo Acción
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/4d6d946b-02ce-43d6-8627-55276a954a3d/4.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="DW Latino América" tvg-name="DW Latino América" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/06b9c71d745458b2e3a57c2772f7a566.webp",DW Latino América
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
