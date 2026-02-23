@@ -159,3 +159,17 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 tvg-id="Top Latino TV" tvg-name="Top Latino TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="Música",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w612961349_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzcxODY2MjY2Jndvd3phdG9rZW5lbmR0aW1lPTE3NzE4NjcyNjYmd293emF0b2tlbmhhc2g9YzMxU1NkS0ozeUNvQ0xtb01jdk9TazBrOVlWQ19XZjEzaXpfMXR6S0VOcz0=.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Conectados Con Dios" tvg-name="Conectados Con Dios" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/570cee8289e39a981bfec75c3b7860e7.webp" group-title="Música",Conectados Con Dios
+https://cdn.oktvus.com/ConectadoConDios/tracks-v3a1/mono.ts.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Ideas En 5 Minutos" tvg-name="Ideas En 5 Minutos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/08043b461160a7a17060e97ea188cfd6.webp" group-title="Música",Ideas En 5 Minutos
+https://d1vhgfbxsl1eqy.cloudfront.net/ts-us-e2-n1/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/cb543d177b6c648a84cb3c62cef343a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7257db80148b61299bce8c37683f03409a5e5afba358b1ebb754428e3fa4b21e55942f11b59f43c8821da6d2dd5b9a5e8427f7119bc0f6d885198b83f30e93738adcd3e34307fba74dd1a07aa3db8e6c349d7d2934663f848db28e83b81b253931d6f0d9ab6dbf32c38c37886336c160d22fd677e239dbf8c8fb186b33f5ff3b7dd6065113911100afd1abf63021b465faedcec872689cfb157446f3a0b94824159fe7c21888c25ac3f873c5fc5e1436c49e5288dd9cb7afe1dd04cc7e8af0fd966b1615231c54d214e2bb7dcb25d84fadcc3828480211fecd1b97d099161b4a7babac12941f12b2decba4da0d30c5295b79e072d65600239d603932b563a9d46c2cba270c842734b40d66d70cafee5e80cdb1d20f35b1d1d051bf3ebfc76dfcc242f83d720978f0984a784a437adceb1c7d1371d14ae9d68aac373e09e2f3c2e9d3115f233c04591884f2ed12c3d720489aee53ff4076c14f11d03de62bf32abe45fcfe2711/89/1920x1080_5500000/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Latina Perú" tvg-name="Latina Perú" tvg-logo="https://www.latina.pe/_templates/desktop/includes/img/latina.svg?v=2" group-title="Música",Latina Perú
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream3/chunks.m3u8?dpssid=b21141972718699c8f49899a9&sid=ba5t1l1xb2275445440699c8f4c942d2&ndvc=0
