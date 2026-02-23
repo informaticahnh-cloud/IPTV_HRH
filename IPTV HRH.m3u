@@ -127,3 +127,12 @@ https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
 https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist_w22177099.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Trace Latina" tvg-name="Trace Latina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5536c18c8dc6b2ee955e65c59720b9c3.webp" group-title="Música",Trace Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/ts-us-e2-n1/playlist/amg01131-tracetv-tracelatina-xiaomi/cb543d177b6c648a84cb3c62cef343a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7257db80148b61299bce8c37683f03409a5e5afba358b1ebb45d418e3fa2e44855942f11e29f43c8821da6d2d0099d5ed770f317cb94a1dad141d080f30e93738adcd3e34307fba74dd1a07aa3db8e6c349d7d2934663f848db28e83b81b253931d6f0d9ab6dbf32c38c37886336c160d22fd677e239dbf8c8fb186b33f5ff3b7dd6065113911100afd1abf63021b465faedcec872689cfb157446f3a0b94824159fe7c21888c25ac3f873c5fc5e1436c49e5288dd9cb7afe1dd04cc7e8af0fd966b1615231c54d214e2bb7dcb25d84fadcc3828480211fecd1b97d099161b4a7babac12941f12b2decba4da0d30c5295b79e072d65600239d603932b563a9d46c2cba270c842734b40d66d70cafee5e80cdb1d20f35b1d1d051bf3ebfc76dfcc242f83d720978f0984a784a437adceb1c7d1371d14ae9d68aac373e09e2f3c2e9d3115f233c04591884f2ed12cfda2048d1f253ff40b68c8f56d4606038907442dd3b66e0ea/44/1920x1080_4716800/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Sony Canal Novelas" tvg-name="Sony Canal Novelas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Novelas",Sony Canal Novelas
+https://spt-novelas-1-us.canelatv.wurl.tv/4300.m3u8
+
