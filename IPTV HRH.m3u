@@ -63,65 +63,67 @@ https://live-ak.vimeocdn.com/exp=1771863043~acl=%2F4039b4de-ebe3-4519-a498-d6e54
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Guatevisión" tvg-name="Guatevisión" tvg-logo="",Guatevisión
+#EXTINF:-1 tvg-id="Guatevisión" tvg-name="Guatevisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQgSljh8ocO3BKhniqe8pahuuBdubyiYxoww&s"
+group-title="Entretenimiento",Guatevisión
 https://live.eu-north-1b.cf.dmcdn.net/sec2(-l6WH4Q9SltlbYTG6yA4pMaqCEWpPTItd6rJ6-8WKN6N5misq45LNNih7kFIVuASS0DboOFbuCsbckLIvgletf8HT53e0DGeh88idqmsLhQip1-uaJBNMzTRxbmMKLEw)/dm/3/x8lth64/s/live-480.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80445724b0084751d2edc41bb8eb6a9f.webp",Baby Shark TV
+#EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80445724b0084751d2edc41bb8eb6a9f.webp" group-title="Infantiles",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-name="Canal de las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png",Canal de las Estrellas
+#EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-name="Canal de las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="CNN en Español" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg",CNN en Español
+#EXTINF:-1 tvg-id="CNN en Español" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Noticias",CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Telemundo Miami" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png",Telemundo Miami
+#EXTINF:-1 tvg-id="Telemundo Miami" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="Entretenimiento",Telemundo Miami
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Azteca Deportes" tvg-name="Azteca Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",Azteca Deportes
+#EXTINF:-1 tvg-id="Azteca Deportes" tvg-name="Azteca Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="Deportes",Azteca Deportes
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Teleclásica" tvg-name="Teleclásica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp",Teleclásica
-https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8?hls_ctx=c29p6218
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Telemundo Acción" tvg-name="Telemundo Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp",Telemundo Acción
+#EXTINF:-1 tvg-id="Telemundo Acción" tvg-name="Telemundo Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp" group-title="Entretenimiento",Telemundo Acción
 https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/4d6d946b-02ce-43d6-8627-55276a954a3d/4.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="DW Latino América" tvg-name="DW Latino América" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/06b9c71d745458b2e3a57c2772f7a566.webp",DW Latino América
+#EXTINF:-1 tvg-id="DW Latino América" tvg-name="DW Latino América" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/06b9c71d745458b2e3a57c2772f7a566.webp"group-title="Documentales",DW Latino América
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp",FOX Sports
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp" group-title="Deportes",FOX Sports
 https://csm-e-cetubilusordlive-84853365.csm.tubi.video/csm/live/750557920/1.m3u8;jsessionid=34E8448B129E33E44F163150A75A1E3D.csm-e-cetubilusordlive-84853365.csm.tubi.video?playback_start_ts=1770724179&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&ss.exp=20260213114939&ss.sig=beb87546d239b72fe48965145a8cbab9972d6fa9
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal Once MX" tvg-name="Canal Once MX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp",Canal Once MX
+#EXTINF:-1 tvg-id="Canal Once MX" tvg-name="Canal Once MX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp" group-title="Entretenimiento",Canal Once MX
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Xtrema TV" tvg-name="Xtrema TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp",Xtrema TV
+#EXTINF:-1 tvg-id="Xtrema TV" tvg-name="Xtrema TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="Entretenimiento",Xtrema TV
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?hls_ctx=9j599j5b
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="TeleFórmula" tvg-name="TeleFórmula" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf45e62409db8ccac319dff3261c5d02.webp",TeleFórmula
+#EXTINF:-1 tvg-id="TeleFórmula" tvg-name="TeleFórmula" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf45e62409db8ccac319dff3261c5d02.webp" group-title="Entretenimiento",TeleFórmula
 https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/797afb946844e86cc238667ddfc07b81.webp",Estrella TV
+#EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/797afb946844e86cc238667ddfc07b81.webp" group-title="Entretenimiento",Estrella TV
 https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Cariñosa TV" tvg-name="Cariñosa TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ac07aab03b6b374cf69559675aa648.webp" group-title="Entretenimiento",Cariñosa TV
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist_w22177099.m3u8
+
+
