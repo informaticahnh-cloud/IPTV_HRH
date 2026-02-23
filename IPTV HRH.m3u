@@ -103,3 +103,25 @@ https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTM3U
 #EXTINF:-1 tvg-id="DW Latino América" tvg-name="DW Latino América" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/06b9c71d745458b2e3a57c2772f7a566.webp",DW Latino América
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp",FOX Sports
+https://csm-e-cetubilusordlive-84853365.csm.tubi.video/csm/live/750557920/1.m3u8;jsessionid=34E8448B129E33E44F163150A75A1E3D.csm-e-cetubilusordlive-84853365.csm.tubi.video?playback_start_ts=1770724179&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&ss.exp=20260213114939&ss.sig=beb87546d239b72fe48965145a8cbab9972d6fa9
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal Once MX" tvg-name="Canal Once MX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp",Canal Once MX
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Xtrema TV" tvg-name="Xtrema TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp",Xtrema TV
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?hls_ctx=9j599j5b
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleFórmula" tvg-name="TeleFórmula" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf45e62409db8ccac319dff3261c5d02.webp",TeleFórmula
+https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/797afb946844e86cc238667ddfc07b81.webp",Estrella TV
+https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
