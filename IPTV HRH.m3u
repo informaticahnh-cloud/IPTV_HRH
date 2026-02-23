@@ -60,3 +60,8 @@ https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/t
 #EXTM3U
 #EXTINF:-1 tvg-id="GPLUS" tvg-name="GPLUS" tvg-logo="https://vhx.imgix.net/robertovassaux1/assets/7041b390-9295-4f2d-bb38-c9e25bb1609d.png?fit=max&h=84&q=92&w=400" group-title="Entretenimiento",GPLUS
 https://live-ak.vimeocdn.com/exp=1771863043~acl=%2F4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4%2F%2A~hmac=78336cfb3fafa9eb047bed92ef6fc734ead1d1b98328128be38c80a7221b4320/4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4/aac/56000/en/chunklist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Guatevisión" tvg-name="Guatevisión" tvg-logo="",Guatevisión
+https://live.eu-north-1b.cf.dmcdn.net/sec2(-l6WH4Q9SltlbYTG6yA4pMaqCEWpPTItd6rJ6-8WKN6N5misq45LNNih7kFIVuASS0DboOFbuCsbckLIvgletf8HT53e0DGeh88idqmsLhQip1-uaJBNMzTRxbmMKLEw)/dm/3/x8lth64/s/live-480.m3u8
