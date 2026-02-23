@@ -1,15 +1,15 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="Canal 7 Guatemala" tvg-name="Canal 7 Guatemala" tvg-logo="http://logo.com/noticias.png" group-title="Nacionales",Canal 7 Guatemala
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal 3 Guatemala" tvg-name="Canal 3 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",Canal 3 Guatemala
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Canal TN23 Guatemala" tvg-name="Canal TN23 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",Canal TN23 Guatemala
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/480p.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal Antigua Guatemala" tvg-name="Canal Antigua Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Nacionales",Canal Antigua Guatemala
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/antigua.m3u8.
@@ -26,11 +26,14 @@ https://channel2-tva.duin.dev/tv/streaming/0/stream.m3u8
 #EXTINF:-1 tvg-id="Canal 27 Guatemala" tvg-name="Canal 27 Guatemala" tvg-logo="http://logo.com/deportes.png" group-title="Religión",Canal 27 Guatemala
 https://ch1-c27.duin.dev/hls/0/stream.m3u8
 
+
 #EXTINF:-1 tvg-id="Novelísima" tvg-name="Novelísima" tvg-logo="http://logo.com/deportes.png" group-title="Novelas",Novelísima
 https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
+
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/08/GTV-Logo.webp" group-title="Películas",GTV
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+
 
 #EXTINF:-1 tvg-id="TV GLOBO Xela" tvg-name="TV GLOBO Xela" tvg-logo="https://tvguatemala.net/wp-content/uploads/2024/03/Tele-Globo-Guatemala-En-Vivo-Logo.png.webp" group-title="Variedades",GTV
 https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/playlist.m3u8
@@ -38,7 +41,6 @@ https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Enlace TV" tvg-name="Enlace TV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/10/TBN-Enlace-Television-Guatemala-2.webp" group-title="Religión",Enlace TV
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="VEA Canal" tvg-name="VEA Canal" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/04/Vea-Canal-en-vivo-Online-1.webp" group-title="Variedades",VEA Canal
@@ -53,9 +55,9 @@ https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb543d177b6c648a84cb3c62cef343a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7257db80148b61299bce8c37683f03409a5e5afba358b1ebe50946de38a4b31555957a4db39f43c8821da6d1dd0a9f5e8574f7139c94f9d88143d4d49b5f9362e13b1948230ffaea18c39328dcb79b7929a3623c490c50d9b681f23c58ec256d7da291a1dd6cfc61a6e343a84115ea4dcf15fd5ae06aba1998e35baea9b7da302a53cdc75a6f22ace4ee9eed6f58d705f7affdaf1716fbd835220aa30edc2b2f4ad6978f15819310cee070d3f96a4b39c3dc119fcae7ceb6e68e1fd126cb94a6996a144836515ad407ddf007ce3ae268bac705205f5436dcf03aca93d5520f775cb9904cdd051abac2d1f4b5613fcf761259ed5fd55a0b6bd9356b79974993f8397fd35660ed3c3bfa67219952f9ca489fc5f5c45c51dfbdc34ceb1d8cdf6b82c43fc31954b1d80893563d62783fb9c9730c247cce44e8d2b8991d6b2ecd87007a5d31426a1718401883a2c67d9e9cc92a1c6ca1194632337845e7f5b97389cbd74e0eb0223c0e9c3c7530816797863258486595c9fea692d7de41b87edfcec7f44e51564eb2290c2a62d2f9d817ad780349735384007350fd296e02bbc587b5c2c059c79232fe63220c3591b9576019427f663d9e9243de4aadc64eeed5990a8ca7a63a71a810ef411c97dbd92cdfe882cc4046d0895f0b689ad66894277889479a7bc68230ebb153070e350f1d91d91aac09cbaaf0ad1c9322a940146daa29ebee849de22607b7df1a4970633330705d712009c2aaf66c1274e1b967ab1dd1e25bad4d43207d20fa87135592e76716fe632d80c42b710901acfbfb928be741ab969a1c4251104b1d57/63/1920x1080_6423560/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Canela TV Kids" tvg-name="Canela TV Kids" tvg-logo="https://canela.tv/assets/images/logo/canelatv-logo.svg" group-title="Internacionales",Canela TV Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/cb543d177b6c648a84cb3c62cef343a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7257db80148b61299bce8c37683f03409a5e5afba358b1ebe15d118a39a4b01555957a4ce79f43c8821da6d2dc0f9c5e8723f047cc97a288804185809b7e9364e63d0d2a6417dd817cc3cc05e089cc243aca702b0b4a51b1f6dea7183fd30a405dabadcae833f9469bd177db155dd601885fbb239e64b80c98f45cacdfdfb5206f18feaf31022badf1d2ee91571d9c3c82c883dc636ca6f4017643c568aa49415193fcc51188c25b82a079efde0a1936d4e326f1fce2d981daef439f57a2ad92b11c601f2e5358f937c88f7ee439cf71becf10382e3c2ec29440c88ae64b235d5f948948d51002e3ace1ecdb0b2dc3631e65e461d75c106dcb311e188f4ffc896600e343098a252dfa2a56ea23ade25c9fcfd2e30704a1c7d7478d0b85d724f3c43fc31954b1d80893563d62783fb9c9730c247cce44e8d2b8991d6b2ecd87007a5d31426a1718401883a2c67d9e9cc92a1c6ca1194632337845e7f5b97389cbd74e0eb0223c0e9c3c7530816797863258486595c9fea692d7de41b87edfcec7f44e51564eb2290c2a62d2f9d817ad780349735384007350fd296e02bbc587b5c2c059c79232fe63220c3591b9576019427f663d9e9243de4aadc64eeed5990a8ca7a63a71a810ef411c97dbd92cdfe882cc4046d0895f0b689ad66894277889479a7bc68230ebb153070e350f1d91d91aac09cbaaf0ad1c9322a940146daa29ebee849de22607b7df1a4970633330705d712009c2aaf66c1274e1b967ab1dd1e25bad4d43207d20fa87135592e76716ff642b3545c158082f6665ffc5455fc4db27c6ed8aabb93decbdf6/155/1920x1080_6423560/index.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="GPLUS" tvg-name="GPLUS" tvg-logo="https://vhx.imgix.net/robertovassaux1/assets/7041b390-9295-4f2d-bb38-c9e25bb1609d.png?fit=max&h=84&q=92&w=400" group-title="Entretenimiento",GPLUS
@@ -77,6 +79,7 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-name="Canal de las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="CNN en Español" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Noticias",CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -85,7 +88,6 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist108
 #EXTM3U
 #EXTINF:-1 tvg-id="Telemundo Miami" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="Entretenimiento",Telemundo Miami
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
-
 
 
 #EXTM3U
@@ -107,13 +109,16 @@ https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="DW Latino América" tvg-name="DW Latino América" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/06b9c71d745458b2e3a57c2772f7a566.webp"group-title="Documentales",DW Latino América
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp" group-title="Deportes",FOX Sports
 https://csm-e-cetubilusordlive-84853365.csm.tubi.video/csm/live/750557920/1.m3u8;jsessionid=34E8448B129E33E44F163150A75A1E3D.csm-e-cetubilusordlive-84853365.csm.tubi.video?playback_start_ts=1770724179&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&ss.exp=20260213114939&ss.sig=beb87546d239b72fe48965145a8cbab9972d6fa9
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal Once MX" tvg-name="Canal Once MX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp" group-title="Entretenimiento",Canal Once MX
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Xtrema TV" tvg-name="Xtrema TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="Entretenimiento",Xtrema TV
@@ -128,6 +133,7 @@ https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/797afb946844e86cc238667ddfc07b81.webp" group-title="Entretenimiento",Estrella TV
 https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Cariñosa TV" tvg-name="Cariñosa TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ac07aab03b6b374cf69559675aa648.webp" group-title="Entretenimiento",Cariñosa TV
@@ -152,3 +158,4 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Top Latino TV" tvg-name="Top Latino TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="Música",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w612961349_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzcxODY2MjY2Jndvd3phdG9rZW5lbmR0aW1lPTE3NzE4NjcyNjYmd293emF0b2tlbmhhc2g9YzMxU1NkS0ozeUNvQ0xtb01jdk9TazBrOVlWQ19XZjEzaXpfMXR6S0VOcz0=.m3u8
+
