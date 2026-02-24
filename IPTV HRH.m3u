@@ -229,3 +229,17 @@ http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://www.clipartmax.com/png/middle/345-3452629_fx-network-fx-channel-logo-png.png" group-title="Películas",FX
 http://38.199.6.1:17001/play/a04u/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20230522040704" group-title="Películas",Nickelodeon
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4f542da4-e11c-4e1a-b2c5-72bb020bd334
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3a9icY_9966BuYOgU6E6Nri7hgX3G-bTCxg&s" group-title="Infantiles",Nick Jr
+http://38.199.6.1:17001/play/a0pb/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3a9icY_9966BuYOgU6E6Nri7hgX3G-bTCxg&s" group-title="Infantiles",Discovery Channel
+http://200.24.204.242:6020/play/a0cc/index.m3u8
+
