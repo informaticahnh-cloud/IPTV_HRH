@@ -179,3 +179,29 @@ https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-id="Canal ViX" tvg-name="Canal ViX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="Películas",Canal ViX
 https://jmp2.uk/stvp-US2200005Y2
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Curiosity Animales" tvg-name="Curiosity Animales" tvg-logo="" group-title="Fauna",Curiosity Animales
+https://jmp2.uk/stvp-US2200001IY
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Curiosity Explora" tvg-name="Curiosity Explora" tvg-logo="" group-title="Documentales",Curiosity Explora
+https://jmp2.uk/stvp-US22000020U
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Curiosity Motores" tvg-name="Curiosity Motores" tvg-logo="" group-title="Documentales",Curiosity Motores
+https://jmp2.uk/stvp-US2200003ZN
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Galanes" tvg-name="Galanes" tvg-logo="" group-title="Novelas",Galanes
+https://jmp2.uk/stvp-USBD2700002DU
+
+#EXTM3U
+#EXTINF:-1 tvg-id="XITE Siempre Latino" tvg-name="XITE Siempre Latino" tvg-logo="" group-title="Música",XITE Siempre Latino
+https://jmp2.uk/stvp-USBD3300010L9
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Caso Cerrado TV" tvg-name="Caso Cerrado TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmtDbwitiOWIM1lHA9l8AvdA07jd9HWg8F2Q&s" group-title="Entretenimiento",Caso Cerrado TV
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991749/hls/master.m3u8?ads.xumo_channelId=99991749&ads.asnw=169843&ads.afid=137391198&ads.sfid=16926452&ads.csid=xumo_[PLATFORM]_TelemundoScripted_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=2562&ads.xumo_contentName=TelemundoScripted&ads.xumo_providerId=2562&ads.xumo_providerName=TelemundoScripted&ads.channelId=99991749&ads._fw_ifa_type=[IFA_TYPE]
