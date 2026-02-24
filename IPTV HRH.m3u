@@ -239,7 +239,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3a9icY_9966BuYOgU6E6Nri7hgX3G-bTCxg&s" group-title="Infantiles",Nick Jr
 http://38.199.6.1:17001/play/a0pb/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3a9icY_9966BuYOgU6E6Nri7hgX3G-bTCxg&s" group-title="Infantiles",Discovery Channel
-http://200.24.204.242:6020/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" group-title="Infantil",Disney Channel (Portal)
+https://www.tvporinternet2.com/live4/disneychannel.php
 
