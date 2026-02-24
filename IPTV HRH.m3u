@@ -176,5 +176,6 @@ https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEMnMFX8mBOcyCyaOs22gbmNUYuXrH7BKRA&s" group-title="Películas",Cinemax HD
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+#EXTINF:-1 tvg-id="Canal ViX" tvg-name="Canal ViX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="Películas",Canal ViX
+https://jmp2.uk/stvp-US2200005Y2
+
